@@ -52,4 +52,4 @@ A esteganografia LSB funciona substituindo o último bit de cada byte de cor de 
 > Para que a mensagem não seja perdida, a imagem gerada **nunca** deve ser convertida para JPG ou enviada por aplicativos que comprimem a mídia (como WhatsApp ou Facebook), pois a compressão destrói os bits escondidos. Use sempre formatos sem perdas (PNG/BMP)
 
 ---
-**Desenvolvido por [leonardomcl]** *Protegendo informações um bit de cada vez.*
+*Protegendo informações um bit de cada vez.*
