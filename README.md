@@ -40,9 +40,6 @@ A esteganografia LSB funciona substituindo o último bit de cada byte de cor de 
 
 ### Compilação
 1.  Clone o repositório:
-    ```bash
-    git clone [https://github.com/leonardomcl/invisibilis.git](https://github.com/leonardomcl/invisibilis.git)
-    ```
 2.  Abra o arquivo `Invisibilis.dpr` no Delphi.
 3.  Selecione a plataforma `Windows 64-bit`.
 4.  Pressione `Shift + Ctrl + F9` para compilar.
