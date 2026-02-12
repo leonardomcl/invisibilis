@@ -4,9 +4,17 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20x64-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+
+
+https://github.com/user-attachments/assets/0ffbca47-d18d-4047-8ba3-aa042123feb1
+
+
+
 O **Invisibilis** é uma ferramenta de esteganografia moderna desenvolvida em **Delphi (FireMonkey)**. Ele permite ocultar mensagens de texto dentro de imagens digitais sem causar alterações perceptíveis ao olho humano, utilizando a técnica de manipulação do bit menos significativo (**LSB**).
 
 ---
+
+
 
 ## ✨ Funcionalidades
 
